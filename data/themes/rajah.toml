@@ -10,14 +10,14 @@ primary = "#00bbf9"
 link_hover = "#0095c6"
 
 # Menu
-menu_primary = "#f6f7fb"
+menu_primary = "#f5f7ff"
 menu_text = "#34495e"
 menu_text_active = "#a587db"
 menu_title = "#794ccb"
 
 # Home sections
 home_section_odd = "#ffffff"
-home_section_even = "#f6f7fb"
+home_section_even = "#f5f7ff"
 
 [dark]
 

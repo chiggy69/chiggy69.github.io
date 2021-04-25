@@ -36,14 +36,14 @@ experience:
         * Modelling
         * Deploying
         
-  - title: Professor of Semiconductor Physics
-    company: University X
-    company_url: ''
-    company_logo: org-x
-    location: California
-    date_start: '2016-01-01'
-    date_end: '2020-12-31'
+  - title: Student Developer
+    company: Google Summer of Code
+    company_url: 'https://summerofcode.withgoogle.com/archive/2018/projects/5544927601623040/'
+    company_logo: gsoc
+    date_start: '2018-05-01'
+    date_end: '2018-08-31'
     description: Taught electronic engineering and researched semiconductor physics.
+
 
 design:
   columns: '2'
