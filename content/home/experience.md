@@ -24,17 +24,17 @@ date_format: Jan 2006
 experience:
   - title: Software Engineer
     company: Microsoft
-    company_url: ''
+    company_url: 'https://github.com/azsk/AzTS-docs'
     company_logo: msft
     location: Hyderabad, India
     date_start: '2020-07-27'
     date_end: ''
     description: |2-
-        Responsibilities include:
+        Worked on the Azure Tenant Security Solution (AzTS), that can be used to obtain visibility to cloud subscriptions and resource configuration across multiple subscriptions in an enterprise environment.
         
-        * Analysing
-        * Modelling
-        * Deploying
+        * Worked on daily scanning of ~23 million cloud resources within Microsoft for common security threats.
+        * Contributed to a cost-effective and time-efficient solution that attempts to share Microsoft's best practices with the cloud community.
+        * Designed and developed control checks to combat security risks for various cloud resources.
         
   - title: Student Developer
     company: Google Summer of Code
@@ -42,8 +42,12 @@ experience:
     company_logo: gsoc
     date_start: '2018-05-01'
     date_end: '2018-08-31'
-    description: Taught electronic engineering and researched semiconductor physics.
-
+    description: |2-
+        Developed Mind The Word, a browser extension that helps users to learn the vocabulary of new languages through language immersion.
+        
+        * Introduced local caching of translated words in accordance to Zipf's Law, reducing the number of API calls by 55% - 70%.
+        * Added viewport limitation for faster rendering of web pages. Changed translation function to decrease render time to under 5 seconds.
+        * Extended Text-to-Speech facility to 51 new languages.
 
 design:
   columns: '2'

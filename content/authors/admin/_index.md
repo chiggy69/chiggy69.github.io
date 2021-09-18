@@ -61,9 +61,10 @@ email: ""
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
+Hello There! I am a Software Engineer working in Microsoft working in the domain of Digital Security and Risk.
 
-Chirag Vashist received his B.Tech. Honors degree in Computer Science with Minor in Management from Indian Institute of Technology, Mandi. His research interests are Computer Vision with application in biometric recognition. 
-He has worked on providing guidance for rapidly scanning, deploying, and operationalizing cloud resources at Microsoft IDC. 
-He has also volunteered as an administrator and mentor at Australian Open-Source Software Innovation and Education.
+I received my B.Tech. Honors degree in Computer Science with Minor in Management from Indian Institute of Technology, Mandi. My research interest is Computer Vision with application in biometric recognition and security. As part of my final-year thesis, I worked on optimizing the indexing of biometric data and generation of cancellable biometric templates.
+
+I have also volunteered as an administrator and mentor at Australian Open-Source Software Innovation and Education (AOSSIE). As a Google-Summer-of-Code student for AOSSIE, I worked on Mind The Word, a language immersion browser extension.
 
 <!-- {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}. -->
