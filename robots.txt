@@ -1,3 +1,3 @@
 User-agent: *
 
-Sitemap: chiggy69.github.io/sitemap.xml
+Sitemap: https://chiggy69.github.io/sitemap.xml
