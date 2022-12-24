@@ -116,14 +116,6 @@ if porridge == &amp;quot;blueberry&amp;quot;:
 print(&amp;quot;Eating...&amp;quot;)
 &lt;/code>&lt;/pre>
 &lt;hr>
-&lt;h2 id="math">Math&lt;/h2>
-&lt;p>In-line math: $x + y = z$&lt;/p>
-&lt;p>Block math:&lt;/p>
-&lt;!--
-$$
-f\left( x \right) = \;\frac{{2\left( {x + 4} \right)\left( {x - 4} \right)}}{{\left( {x + 4} \right)\left( {x + 1} \right)}}
-$$ -->
-&lt;hr>
 &lt;h2 id="fragments">Fragments&lt;/h2>
 &lt;p>Make content appear incrementally&lt;/p>
 &lt;pre>&lt;code>{{% fragment %}} One {{% /fragment %}}
